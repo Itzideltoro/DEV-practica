@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "style.scss",
+        "_variables.scss",
+        "_mixin.scss",
+        "_nav.scss",
+        "_aside1.scss",
+        "_main.scss",
+        "_aside2.scss",
+        "_footer.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
