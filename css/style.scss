@@ -6,3 +6,16 @@
 @import "_aside2";
 @import "_footer";
 
+* {
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body {
+    text-rendering: optimizeSpeed;
+    line-height: 1.5;
+}
+
+.devlayout {
+    max-width: 1280px;
+}

@@ -1,1 +1,55 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+.card-header {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #eef0f1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.subtitle-2 {
+  font-weight: 700;
+  color: #202428;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 1.25rem;
+  color: #202428;
+}
+
+.texto {
+  font-size: 0.875rem;
+  font-weight: 500;
+  -webkit-box-pack: right;
+      -ms-flex-pack: right;
+          justify-content: right;
+}
+
+.crayons-link--contentful {
+  display: block;
+  padding: var(--su-4);
+  border-bottom: 1px solid var(--body-bg);
+}
+
+.crayons-link {
+  color: var(--link-color);
+}
+
+* {
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+}
+
+.devlayout {
+  max-width: 1280px;
+}
+/*# sourceMappingURL=style.css.map */
