@@ -18,7 +18,7 @@ $su-10: 8rem;
 $radius: 5px;
 $transition-func: cubic-bezier(0.17, 0.67, 0.5, 0.71);
 $transition-time: 100ms;
-$transition-props: var(--transition-func) var(--transition-time);
+$transition-props: $transition-func $transition-time;
 $ff-sans-serif: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 $ff-monospace: 'SF Mono', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, Courier, monospace;
 $ff-serif: Palatino, 'Palatino Linotype', 'Palatino LT STD', 'Book Antiqua', Georgia, serif;
