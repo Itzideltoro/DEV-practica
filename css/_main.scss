@@ -1,3 +1,9 @@
+a:hover {
+  text-decoration: none;
+  color: $accent-brand;
+}
+
+
 .h1i {
 
   font-family: $ff-sans-serif;
@@ -6,7 +12,6 @@
   font-size: 45px ;
 
 }
-
 
 
 
@@ -21,14 +26,65 @@
   
 }
 
-.navinternoi {
-  list-style: none;
+// Taggs Principales
+
+.etiquetas {
+  
+  .etiqueta1{
+  background:$accent-brand-darker;
+  padding: 5px;
+  color:$accent-success-lighter;
+  }
+  .etiqueta2{
+    background:$accent-success;
+    padding: 5px;
+    color:$base-80;
+    }
+    .etiqueta3 {
+      background:#69e96e;
+      padding: 5px;
+      color:$base-80;
+      }
 
 }
+// Post contenido
+
+    .imag-user {
+      width: 40px;
+      height: 40px;
+
+    }
   
-  .usern {
-    list-style: none;
-  }
+    .post {
+      border-radius:0.5%;
+    }
+
+    .post-img {
+      border-radius:0.5%;
+
+    }
+
+    // Parrafos
+
+    .piedepag {
+      color:$base-60;
+    }
+
+   
+
+// MAIN 1
+
+
+    .navinternoi {
+      list-style: none;
+    
+    }
+      
+      .usern {
+        list-style: none;
+      }
+    
+  
     
 
   

@@ -1,3 +1,8 @@
+a:hover {
+  text-decoration: none;
+  color: #3b49df;
+}
+
 .h1i {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-weight: 800;
@@ -13,6 +18,41 @@
 
 .primerpost .border {
   border-radius: 15px;
+}
+
+.etiquetas .etiqueta1 {
+  background: #1827ce;
+  padding: 5px;
+  color: #79ece2;
+}
+
+.etiquetas .etiqueta2 {
+  background: #26d9ca;
+  padding: 5px;
+  color: #363d44;
+}
+
+.etiquetas .etiqueta3 {
+  background: #69e96e;
+  padding: 5px;
+  color: #363d44;
+}
+
+.imag-user {
+  width: 40px;
+  height: 40px;
+}
+
+.post {
+  border-radius: 0.5%;
+}
+
+.post-img {
+  border-radius: 0.5%;
+}
+
+.piedepag {
+  color: #64707d;
 }
 
 .navinternoi {
