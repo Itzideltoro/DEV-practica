@@ -5,18 +5,12 @@ a:hover {
 
 // Borde pagina
 
-
-
 .h1i {
-
   font-family: $ff-sans-serif;
   font-weight: 800;
   color: $base;
-  font-size: 45px ;
-
+  font-size: 45px;
 }
-
-
 
 .h2i {
   font-family: $ff-dyslexic;
@@ -26,106 +20,111 @@ a:hover {
 
 .primerpost .border {
   border-radius: 15px;
-  
 }
 
 // Taggs Principales
 
 .etiquetas {
-  
-  .etiqueta1{
-  background:$accent-brand-darker;
-  padding: 5px;
-  color:$accent-success-lighter;
-  }
-  .etiqueta2{
-    background:$accent-success;
+  .etiqueta1 {
+    background: $accent-brand-darker;
     padding: 5px;
-    color:$base-80;
-    }
-    .etiqueta3 {
-      background:#69e96e;
-      padding: 5px;
-      color:$base-80;
-      }
-
+    color: $accent-success-lighter;
+  }
+  .etiqueta2 {
+    background: $accent-success;
+    padding: 5px;
+    color: $base-80;
+  }
+  .etiqueta3 {
+    background: #69e96e;
+    padding: 5px;
+    color: $base-80;
+  }
 }
 // Post contenido
 
-    .imag-user {
-      width: 40px;
-      height: 40px;
+.imag-user {
+  width: 40px;
+  height: 40px;
+}
 
-    }
-  
-    .post {
-      border-radius:0.5%;
-    }
+.post {
+  border-radius: 0.5%;
+}
 
-    .post-img {
-      border-radius:0.5%;
+.post-img {
+  border-radius: 0.5%;
+}
 
-    }
+// Parrafos
 
-    // Parrafos
+.piedepag {
+  color: $base-60;
+}
 
-    .piedepag {
-      color:$base-60;
-    }
+// Zona discusión
 
-    // Zona discusión 
+.form-control {
+  background: $base-0;
+}
 
-    .form-control {
+.imag-user3 {
+  height: 40px;
+  width: 40px;
+}
 
-      background: $base-0;
-      
-    }
+.btndis {
+  width: 120px;
+  height: 40px;
+  box-shadow: 0 0 3px 1px $base-40;
+  border: $base-50;
+  color: black;
+}
 
-    .imag-user3 {
-      height: 40px;
-      width: 40px;
+.h2t {
+  font-family: $ff-dyslexic;
+  font-weight: 600;
+  color: $base;
+}
 
+// zona otros post
 
-    }
+.imag-user2 {
+  width: 70px;
+  height: 70px;
+}
 
-    .btndis {
-     width: 120px;
-     height: 40px;
-    box-shadow: 0 0 3px 1px $base-40;
-    border: $base-50;
-    color: black;   
-
-    }
-
-    .h2t {
-      font-family: $ff-dyslexic;
-      font-weight: 600;
-      color: $base;
-  
-      }
-
-    // zona otros post
-    .imag-user2 {
-      width: 90px;
-      height: 90px;
-    }
-
-
-   
+.htext:hover {
+  color: $accent-brand-darker;
+}
 
 // MAIN 1
 
+.navinternoi {
+  list-style: none;
+}
 
-    .navinternoi {
-      list-style: none;
-    
-    }
-      
-      .usern {
-        list-style: none;
-      }
-    
-  
-    
+.margn1 {
+  margin-left: 46px;
+}
 
-  
+
+//  etiquetas 1
+
+.etimain {
+  .eti1 {
+    color: $base-70;
+  }
+
+  .eti2 {
+    color: $base-70;
+  }
+
+  .eti3 {
+    color: $base-70;
+  }
+
+  .eti4 {
+    color: black;
+  }
+}

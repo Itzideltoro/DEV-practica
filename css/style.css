@@ -80,16 +80,36 @@ a:hover {
 }
 
 .imag-user2 {
-  width: 90px;
-  height: 90px;
+  width: 70px;
+  height: 70px;
+}
+
+.htext:hover {
+  color: #1827ce;
 }
 
 .navinternoi {
   list-style: none;
 }
 
-.usern {
-  list-style: none;
+.margn1 {
+  margin-left: 46px;
+}
+
+.etimain .eti1 {
+  color: #4d5760;
+}
+
+.etimain .eti2 {
+  color: #4d5760;
+}
+
+.etimain .eti3 {
+  color: #4d5760;
+}
+
+.etimain .eti4 {
+  color: black;
 }
 
 .card-header {
