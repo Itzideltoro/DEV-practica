@@ -55,6 +55,35 @@ a:hover {
   color: #64707d;
 }
 
+.form-control {
+  background: #f9fafa;
+}
+
+.imag-user3 {
+  height: 40px;
+  width: 40px;
+}
+
+.btndis {
+  width: 120px;
+  height: 40px;
+  -webkit-box-shadow: 0 0 3px 1px #99a3ad;
+          box-shadow: 0 0 3px 1px #99a3ad;
+  border: #7d8a97;
+  color: black;
+}
+
+.h2t {
+  font-family: OpenDyslexic, sans-serif;
+  font-weight: 600;
+  color: #08090a;
+}
+
+.imag-user2 {
+  width: 90px;
+  height: 90px;
+}
+
 .navinternoi {
   list-style: none;
 }

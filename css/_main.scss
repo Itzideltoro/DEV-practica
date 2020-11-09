@@ -3,6 +3,9 @@ a:hover {
   color: $accent-brand;
 }
 
+// Borde pagina
+
+
 
 .h1i {
 
@@ -69,6 +72,44 @@ a:hover {
     .piedepag {
       color:$base-60;
     }
+
+    // Zona discusión 
+
+    .form-control {
+
+      background: $base-0;
+      
+    }
+
+    .imag-user3 {
+      height: 40px;
+      width: 40px;
+
+
+    }
+
+    .btndis {
+     width: 120px;
+     height: 40px;
+    box-shadow: 0 0 3px 1px $base-40;
+    border: $base-50;
+    color: black;   
+
+    }
+
+    .h2t {
+      font-family: $ff-dyslexic;
+      font-weight: 600;
+      color: $base;
+  
+      }
+
+    // zona otros post
+    .imag-user2 {
+      width: 90px;
+      height: 90px;
+    }
+
 
    
 
