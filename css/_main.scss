@@ -125,6 +125,20 @@ a:hover {
   margin-left: 46px;
 }
 
+// Color para user 
+
+.username {
+
+  .usernombre {
+    color: $base-70;
+  }
+
+  .usernombre1 {
+  color: $base-50;
+  }
+}
+
+
 
 //  etiquetas 1
 
@@ -145,3 +159,35 @@ a:hover {
     color: black;
   }
 }
+
+// botones para la card principal
+
+.botonesmain {
+  .button-main1 {
+    padding-left:20px;
+    padding-right:20px;
+    background-color: white;
+    border: none;
+    color: $base-90;
+    font-size:12px;
+    
+  }
+
+}
+
+.botones2{
+  .minutos {
+    color: $base-60;
+    font-size:10px;
+
+
+  }
+  .button-main2 {
+    background-color:$base-20;
+    border: none;
+    color: $base-90;
+    font-size:15px;
+
+  }
+}
+
