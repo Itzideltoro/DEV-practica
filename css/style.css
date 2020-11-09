@@ -1,1 +1,30 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+.card-img {
+  border-radius: 2.7rem;
+  width: 3.3rem;
+  height: 3.9rem;
+  margin-top: 14px;
+  margin-left: 20px;
+}
+
+.card-title {
+  font-size: 18px;
+}
+
+.card-text {
+  margin-bottom: 10px;
+}
+
+.container-icons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  border: solid red 1px;
+}
+/*# sourceMappingURL=style.css.map */
