@@ -88,6 +88,14 @@ a:hover {
   color: #1827ce;
 }
 
+.postread .post1i {
+  color: #363d44;
+}
+
+.postread .post2i {
+  color: #64707d;
+}
+
 .navinternoi {
   list-style: none;
 }
