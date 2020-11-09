@@ -120,9 +120,22 @@ a:hover {
   color: black;
 }
 
+.botonesm1 .boton1 {
+  font-size: 14px;
+  background-color: white;
+  border: none;
+}
+
+.botonesm1 .botonsave {
+  font-size: 15px;
+  background-color: #d2d6db;
+  border: none;
+  color: #202428;
+}
+
 .h6i {
-  padding-bottom: 15px;
   font-size: 12px;
+  vertical-align: middle;
 }
 
 .card-header {

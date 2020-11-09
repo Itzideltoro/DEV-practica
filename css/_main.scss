@@ -150,14 +150,27 @@ a:hover {
 
   .boton1 {
 
+    font-size: 14px;
+    background-color: white;
+    border: none;
+    
+
+  }
+
+  .botonsave {
+    font-size: 15px;
+    background-color:$base-20;
+    border: none;
+    color:$base-90;
+
   }
 
 }
 
 
 .h6i {
-
-  padding-bottom: 15px;
+  
   font-size: 12px;
+  vertical-align: middle;
 
 }
