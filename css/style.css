@@ -104,14 +104,6 @@ a:hover {
   margin-left: 46px;
 }
 
-.username .usernombre {
-  color: #4d5760;
-}
-
-.username .usernombre1 {
-  color: #7d8a97;
-}
-
 .etimain .eti1 {
   color: #4d5760;
 }
@@ -128,27 +120,6 @@ a:hover {
   color: black;
 }
 
-<<<<<<< HEAD
-.botonesmain .button-main1 {
-  padding-left: 20px;
-  padding-right: 20px;
-  background-color: white;
-  border: none;
-  color: #202428;
-  font-size: 12px;
-}
-
-.botones2 .minutos {
-  color: #64707d;
-  font-size: 10px;
-}
-
-.botones2 .button-main2 {
-  background-color: #d2d6db;
-  border: none;
-  color: #202428;
-  font-size: 15px;
-=======
 .botonesm1 .boton1 {
   font-size: 14px;
   background-color: white;
@@ -188,11 +159,6 @@ a:hover {
   font-size: 18px;
   font-family: OpenDyslexic, sans-serif;
   margin-bottom: 30px;
-}
-
-.derecha .encalce2 {
-  background-color: #d2d6db;
->>>>>>> main/itzi
 }
 
 .card-header {
