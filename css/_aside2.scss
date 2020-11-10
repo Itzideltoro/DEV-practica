@@ -1,0 +1,32 @@
+@import "_variables";
+
+
+.card-header {
+    padding: $su-3 $su-4;
+    border-bottom: 1px solid $base-10;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.subtitle-2 {
+    font-weight: $fw-bold;
+    color: $base-90;
+    font-family: $ff-sans-serif;
+    font-size: $fs-xl;
+    color: $base-90;
+}
+.texto {
+    font-size: $fs-s;
+    font-weight: $fw-medium;
+    justify-content: right;
+}
+
+.crayons-link--contentful {
+    display: block;
+    padding: var(--su-4);
+    border-bottom: 1px solid var(--body-bg);
+}
+.crayons-link {
+    color: var(--link-color);
+}
