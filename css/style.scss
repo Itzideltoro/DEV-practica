@@ -1,0 +1,30 @@
+@import "_variables";
+@import "_mixin";
+@import "_nav";
+@import "aside1";
+@import "_main";
+@import "_aside2";
+@import "_footer";
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body {
+    text-rendering: optimizeSpeed;
+    line-height: 1.5;
+    background: $body-bg;
+    background-color: $base-10;
+
+}
+
+aside {
+    background: $base-10;
+}
+
+.devlayout {
+    max-width: 1280px;
+    // background: $base-0;
+    color: $base-90;
+}

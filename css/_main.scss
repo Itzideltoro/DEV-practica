@@ -1,0 +1,214 @@
+a:hover {
+  text-decoration: none;
+  color: $accent-brand;
+}
+
+// Borde pagina
+
+.h1i {
+  font-family: $ff-sans-serif;
+  font-weight: 800;
+  color: $base;
+  font-size: 45px;
+}
+
+.h2i {
+  font-family: $ff-dyslexic;
+  font-weight: 400;
+  color: $base;
+}
+
+.primerpost .border {
+  border-radius: 15px;
+}
+
+// Taggs Principales
+
+.etiquetas {
+  .etiqueta1 {
+    background: $accent-brand-darker;
+    padding: 5px;
+    color: $accent-success-lighter;
+  }
+  .etiqueta2 {
+    background: $accent-success;
+    padding: 5px;
+    color: $base-80;
+  }
+  .etiqueta3 {
+    background: #69e96e;
+    padding: 5px;
+    color: $base-80;
+  }
+}
+// Post contenido
+
+.imag-user {
+  width: 40px;
+  height: 40px;
+}
+
+.post {
+  border-radius: 0.5%;
+}
+
+.post-img {
+  border-radius: 0.5%;
+}
+
+// Parrafos
+
+.piedepag {
+  color: $base-60;
+}
+
+// Zona discusión
+
+.form-control {
+  background: $base-0;
+}
+
+.imag-user3 {
+  height: 40px;
+  width: 40px;
+}
+
+.btndis {
+  width: 120px;
+  height: 40px;
+  box-shadow: 0 0 3px 1px $base-40;
+  border: $base-50;
+  color: black;
+}
+
+.h2t {
+  font-family: $ff-dyslexic;
+  font-weight: 600;
+  color: $base;
+}
+
+// zona otros post
+
+.imag-user2 {
+  width: 70px;
+  height: 70px;
+}
+
+.htext:hover {
+  color: $accent-brand-darker;
+}
+
+.postread {
+
+  .post1i {
+    color:$base-80;
+
+  }
+
+    .post2i {
+      color:$base-60;
+    }
+
+  
+
+  
+}
+
+
+// MAIN 1
+
+.navinternoi {
+  list-style: none;
+}
+
+.margn1 {
+  margin-left: 46px;
+}
+
+
+//  etiquetas 1
+
+.etimain {
+  .eti1 {
+    color: $base-70;
+  }
+
+  .eti2 {
+    color: $base-70;
+  }
+
+  .eti3 {
+    color: $base-70;
+  }
+
+  .eti4 {
+    color: black;
+  }
+}
+
+.botonesm1 {
+
+  .boton1 {
+
+    font-size: 14px;
+    background-color: white;
+    border: none;
+    
+
+  }
+
+  .botonsave {
+    font-size: 15px;
+    background-color:$base-20;
+    border: none;
+    color:$base-90;
+
+  }
+
+}
+
+
+.h6i {
+  
+  font-size: 12px;
+  vertical-align: middle;
+
+}
+
+
+// footer
+
+.imag-logo {
+  width: 50px;
+  height: 40px;
+
+}
+
+
+.back {
+  background-color:$base-20;
+}
+
+.foot1 {
+  font-size: 10px;
+  
+}
+
+.derecha{
+  .enlacei {
+    
+    color: $base-80;
+    
+  
+  }
+.h5ii{
+
+  font-size: 18px;
+  font-family: $ff-dyslexic;
+  margin-bottom: 30px;
+
+}
+
+
+}
+
