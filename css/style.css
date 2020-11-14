@@ -932,6 +932,7 @@ ul {
 body {
   text-rendering: optimizeSpeed;
   line-height: 1.5;
+<<<<<<< HEAD
   background: #eef0f1;
   background-color: #eef0f1;
 }
@@ -942,5 +943,12 @@ aside {
 
 .devlayout {
   color: #202428;
+=======
+  background-color: #eef0f1;
+}
+
+.devlayout {
+  max-width: 1280px;
+>>>>>>> c938fa9db79aee916d50f871df919b33a27bde1d
 }
 /*# sourceMappingURL=style.css.map */
