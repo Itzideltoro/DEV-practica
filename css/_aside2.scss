@@ -166,7 +166,7 @@ a:hover {
 }
 
 .-mt-4 {
-    margin-top: $su-4 !important;
+    margin-top: -2.8rem;
     margin-bottom: 15px;
 }
 
@@ -272,6 +272,11 @@ ul {
     align-items: center;
     background: $base-60;
 }
+
+// .crayons-card .crayons-card--secondary .branded-7 {
+//     border-top: $su-7 solid $accent-brand;
+// }
+
 .branded-7 {
-    border-top: var(--su-7) solid var(--accent-brand);
+    border-top: $su-7 solid $accent-brand;
 }
